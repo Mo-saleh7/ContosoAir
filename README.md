@@ -1,4 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/AppInnovation-Mo/GitHub%20Integration/_apis/build/status%2FMo-saleh7.ContosoAir%20(5)?branchName=master)](https://dev.azure.com/AppInnovation-Mo/GitHub%20Integration/_build/latest?definitionId=5&branchName=master)
 
 
 # Microsoft.Github CI Demo
